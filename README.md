@@ -1,3 +1,8 @@
+<strong>This project uses React.js, material-ui for layouts and flip-move for animation. Hosting on firebase and use it as a database.</strong>
+
+Live demo: https://facebook-messenger-clone-a8ff6.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
